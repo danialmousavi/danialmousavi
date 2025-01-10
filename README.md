@@ -13,7 +13,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about coding and solving probl
 
 ## 🚀 My Skills
 
-  [![My Skills](https://skillicons.dev/icons?i=react,angular,js,jquery,html,css,tailwind,bootstrap,sass,git,github&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,typescript,js,jquery,html,css,tailwind,bootstrap,sass,git,github&perline=10)](https://skillicons.dev)
 
 ## 🌍 Let's Connect
  [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin=10)](https://skillicons.dev)
