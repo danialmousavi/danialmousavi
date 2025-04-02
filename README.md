@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about coding and solving probl
 
 - 🔭 I’m currently Software engineering student at enghelab eslami technical college**
 - 🔭 I’m currently junior FrontEnd-dev**
-- 🌱 I’m currently learning **[React&& Angular]**
+- 🌱 I’m currently learning **[React&& Next]**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **[Technologies/react,javascript, bootstrap , tailwind,....]**
 - 📫 How to reach me: **[danialmousavi69@gmail.com]**
