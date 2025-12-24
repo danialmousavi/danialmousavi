@@ -1,4 +1,4 @@
-# Hi there, I'm [Danial] 👋
+# Hi there, I'm Danial 👋
 
 Welcome to my GitHub profile! 🚀 I'm passionate about coding and solving problems. Here you'll find some of my favorite projects, as well as some of my open-source contributions.
 
@@ -6,9 +6,8 @@ Welcome to my GitHub profile! 🚀 I'm passionate about coding and solving probl
 
 - 🔭 I’m currently Software engineering student at enghelab eslami technical college**
 - 🔭 I’m currently junior FrontEnd-dev**
-- 🌱 I’m currently learning **[React&& Next]**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Technologies/react,javascript, bootstrap , tailwind,....]**
+- 💬 Ask me about **[Technologies/Next,Typescript,react,javascript, bootstrap , tailwind,....]**
 - 📫 How to reach me: **[danialmousavi69@gmail.com]**
 
 ## 🚀 My Skills
